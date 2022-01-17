@@ -1,2 +1,2 @@
-# mimercado_admin_jpa
+# mimercado_admin_jsp
 modulo administración crud productos mimercado
